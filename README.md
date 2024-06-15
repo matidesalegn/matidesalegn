@@ -77,5 +77,4 @@ Greetings! I’m a Full-Stack Developer with a diverse skill set, specializing i
 ![trophy](https://github-profile-trophy.vercel.app/?username=matidesalegn&theme=onedark)
 
 ## 🔗 Useful Links
-- [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 - [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
