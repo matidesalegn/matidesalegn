@@ -3,13 +3,13 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=matidesalegn&color=blue)
 
 ## 🚀 About Me
-Greetings! I’m a Full-Stack Developer with a diverse skill set, specializing in Frontend Development with proficiency in React JS, Tailwind, JavaScript, and TypeScript. My technical expertise extends to Machine Learning, Generative AI, and ERP Consulting, particularly with platforms like Odoo.
+I am a versatile Python Developer specializing in data analysis, machine learning, and AI, with proficiency in frontend and backend development using JavaScript, Flask, and FastAPI. I excel in deploying applications with Streamlit, Heroku, and Vercel, and have extensive experience in managing DevOps processes, including test automation, CI/CD implementation, and GitHub workflows. Additionally, I possess skills in web scraping, mobile app development, and programming languages such as Java, C++, and Assembly. With a strong foundation in OOP and modularity, I deliver efficient and scalable solutions tailored to meet client objectives across diverse technological landscapes.
 
 - 🔭 I’m currently working on **Web System Development**
 - 🌱 I’m currently learning **AI**
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with **data visualization and machine learning projects**
-- 💬 Ask me about **JavaScript, HTML/CSS, and Python**
+- 💬 Ask me about **Python, JavaScript, and Flask**
 - 📫 How to reach me: **mathiwossilvio@gmail.com**
 - 🌐 Visit my website: [matiwos.vercel.app](https://matiwos.vercel.app/)
 - ⚡ Fun fact: I love hiking and playing chess
@@ -17,12 +17,16 @@ Greetings! I’m a Full-Stack Developer with a diverse skill set, specializing i
 ## 🛠️ Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
+![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/-Streamlit-333?style=flat&logo=streamlit)
+![Heroku](https://img.shields.io/badge/-Heroku-333?style=flat&logo=heroku)
+![Vercel](https://img.shields.io/badge/-Vercel-333?style=flat&logo=vercel)
+![DBT](https://img.shields.io/badge/-DBT-333?style=flat&logo=dbt)
+![DVC](https://img.shields.io/badge/-DVC-333?style=flat&logo=dvc)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![Kedro](https://img.shields.io/badge/-Kedro-333?style=flat&logo=kedro)
+![YOLOv5](https://img.shields.io/badge/-YOLOv5-333?style=flat&logo=yolov5)
 
 ## 📈 GitHub Stats
 ![Matiwos Desalegn's GitHub stats](https://github-readme-stats.vercel.app/api?username=matidesalegn&show_icons=true&theme=radical)
@@ -31,10 +35,13 @@ Greetings! I’m a Full-Stack Developer with a diverse skill set, specializing i
 
 ## 💼 Experience
 - **Associate Technology Professional**, HST (Dec 2023 - Present)
+  - Frontend and Backend Developer specializing in JavaScript, Flask, and FastAPI.
 - **Information Technology Technician**, Koppa Smart Security Solutions (Sep 2023 - Nov 2023)
-  - Security alarm system technician and camera installation.
+  - Installed and configured security alarm systems and surveillance cameras.
 - **Google Developer Student Clubs Lead**, Wolaita Sodo University (Aug 2022 - Jul 2023)
+  - Organized workshops on web and mobile development.
 - **Digital Marketing Specialist**, The Sparks Foundation (Nov 2021 - Aug 2022)
+  - Developed and executed digital marketing strategies.
 
 ## 🎓 Education
 - **Bachelor's degree**, Electrical and Computer Engineering (Computer Stream)
@@ -55,10 +62,14 @@ Greetings! I’m a Full-Stack Developer with a diverse skill set, specializing i
 - **Android Development Certificate of Course Completion** - Google Africa Developer Training Program
 
 ## 🧰 Skills
-- **Programming Languages**: C++, Python, JavaScript, TypeScript
+- **Programming Languages**: Python, JavaScript, Java, C++, Assembly
 - **Web Development**: React JS, Tailwind, HTML5, CSS3
-- **Mobile Development**: Android Design, Android Testing, Android Jetpack
-- **Other Technologies**: IoT, Automation, Deep Learning, Jupyter
+- **Mobile Development**: Android Design, Android Jetpack
+- **Machine Learning & AI**: TensorFlow, Scikit-Learn
+- **DevOps**: Docker, CI/CD, GitHub Actions
+- **Data Analysis**: Pandas, Matplotlib
+- **Web Scraping**: BeautifulSoup, Scrapy
+- **Other Technologies**: IoT, Automation
 
 ## 📫 Contact Me
 - LinkedIn: [linkedin.com/in/matiwos-desalegn](https://www.linkedin.com/in/matiwos-desalegn)
@@ -77,4 +88,5 @@ Greetings! I’m a Full-Stack Developer with a diverse skill set, specializing i
 ![trophy](https://github-profile-trophy.vercel.app/?username=matidesalegn&theme=onedark)
 
 ## 🔗 Useful Links
+- [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 - [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
