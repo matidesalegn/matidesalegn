@@ -3,10 +3,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=matidesalegn&color=blue)
 
 ## 🚀 About Me
-I am a versatile Python Developer specializing in data analysis, machine learning, and AI, with proficiency in frontend and backend development using JavaScript, Flask, and FastAPI. I excel in deploying applications with Streamlit, Heroku, and Vercel, and have extensive experience in managing DevOps processes, including test automation, CI/CD implementation, and GitHub workflows. Additionally, I possess skills in web scraping, mobile app development, and programming languages such as Java, C++, and Assembly. With a strong foundation in OOP and modularity, I deliver efficient and scalable solutions tailored to meet client objectives across diverse technological landscapes.
+Electrical & Computer Engineer (CE Focus) | Innovative Python & JavaScript Developer My passion lies in crafting data-driven solutions through web, mobile, and AI technologies. I bring expertise in: Data Analysis, Machine Learning, & AI: Leverage Python for data manipulation, model building, and intelligent solutions. Integrate MLflow for robust experiment tracking and model management. Full-Stack Development: Build beautiful and functional web applications using Python (Flask/FastAPI) and React for the frontend. Deployment & DevOps: Deploy applications seamlessly with Streamlit, Heroku, or Vercel. Manage DevOps processes including test automation, CI/CD implementation, and GitHub workflows. Mobile App Development: Leverage experience from the Google Africa Developer Training Program to create mobile solutions. Additional Skills: Web Scraping, Java, C++, Assembly, OOP, and strong problem-solving abilities. Leadership: Led the Google Developer Student Clubs at Wolaita Sodo University. Let's connect and create something amazing! 🚀
 
 - 🔭 I’m currently working on **Web System Development**
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently working **AI**
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with **data visualization and machine learning projects**
 - 💬 Ask me about **Python, JavaScript, and Flask**
@@ -82,6 +82,8 @@ I am a versatile Python Developer specializing in data analysis, machine learnin
 - [Marketing Analytics](https://medium.com/@mathiwossilvio/marketing-analytics-0e3e26fc0bac)
 - [Data Warehouse Solution](https://medium.com/@mathiwossilvio/data-warehouse-solution-7698dcfba8ad)
 - [Credit Scoring](https://medium.com/@mathiwossilvio/credit-scoring-b63c51efc918)
+- [Improved detection of fraud cases in e-commerce and bank transactions](https://medium.com/@mathiwossilvio/improved-detection-of-fraud-cases-in-e-commerce-and-bank-transactions-b0144c49d059)
+- [Analyzing and Forecasting Brent Oil Prices: A Comprehensive Time Series Approach](https://medium.com/@mathiwossilvio/analyzing-and-forecasting-brent-oil-prices-a-comprehensive-time-series-approach-aabd32de7792)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 GitHub Trophies
