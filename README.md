@@ -6,7 +6,7 @@
 Electrical & Computer Engineer (CE Focus) | Innovative Python & JavaScript Developer My passion lies in crafting data-driven solutions through web, mobile, and AI technologies. I bring expertise in: Data Analysis, Machine Learning, & AI: Leverage Python for data manipulation, model building, and intelligent solutions. Integrate MLflow for robust experiment tracking and model management. Full-Stack Development: Build beautiful and functional web applications using Python (Flask/FastAPI) and React for the frontend. Deployment & DevOps: Deploy applications seamlessly with Streamlit, Heroku, or Vercel. Manage DevOps processes including test automation, CI/CD implementation, and GitHub workflows. Mobile App Development: Leverage experience from the Google Africa Developer Training Program to create mobile solutions. Additional Skills: Web Scraping, Java, C++, Assembly, OOP, and strong problem-solving abilities. Leadership: Led the Google Developer Student Clubs at Wolaita Sodo University. Let's connect and create something amazing! 🚀
 
 - 🔭 I’m currently working on **Web System Development**
-- 🌱 I’m currently working **AI**
+- 🌱 I’m currently working on **AI**
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with **data visualization and machine learning projects**
 - 💬 Ask me about **Python, JavaScript, and Flask**
@@ -17,16 +17,22 @@ Electrical & Computer Engineer (CE Focus) | Innovative Python & JavaScript Devel
 ## 🛠️ Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
-![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi)
-![Streamlit](https://img.shields.io/badge/-Streamlit-333?style=flat&logo=streamlit)
-![Heroku](https://img.shields.io/badge/-Heroku-333?style=flat&logo=heroku)
-![Vercel](https://img.shields.io/badge/-Vercel-333?style=flat&logo=vercel)
+![MLflow](https://img.shields.io/badge/-MLflow-333?style=flat&logo=mlflow)
 ![DBT](https://img.shields.io/badge/-DBT-333?style=flat&logo=dbt)
 ![DVC](https://img.shields.io/badge/-DVC-333?style=flat&logo=dvc)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
 ![Kedro](https://img.shields.io/badge/-Kedro-333?style=flat&logo=kedro)
 ![YOLOv5](https://img.shields.io/badge/-YOLOv5-333?style=flat&logo=yolov5)
+![Streamlit](https://img.shields.io/badge/-Streamlit-333?style=flat&logo=streamlit)
+![Heroku](https://img.shields.io/badge/-Heroku-333?style=flat&logo=heroku)
+![Vercel](https://img.shields.io/badge/-Vercel-333?style=flat&logo=vercel)
+
+## 📚 Frameworks
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi)
+![React Native](https://img.shields.io/badge/-React_Native-333?style=flat&logo=react)
+![Android](https://img.shields.io/badge/-Android-333?style=flat&logo=android)
 
 ## 📈 GitHub Stats
 ![Matiwos Desalegn's GitHub stats](https://github-readme-stats.vercel.app/api?username=matidesalegn&show_icons=true&theme=radical)
