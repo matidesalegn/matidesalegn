@@ -6,7 +6,7 @@
 Electrical & Computer Engineer (CE Focus) | Innovative Python & JavaScript Developer My passion lies in crafting data-driven solutions through web, mobile, and AI technologies. I bring expertise in: Data Analysis, Machine Learning, & AI: Leverage Python for data manipulation, model building, and intelligent solutions. Integrate MLflow for robust experiment tracking and model management. Full-Stack Development: Build beautiful and functional web applications using Python (Flask/FastAPI) and React for the frontend. Deployment & DevOps: Deploy applications seamlessly with Streamlit, Heroku, or Vercel. Manage DevOps processes including test automation, CI/CD implementation, and GitHub workflows. Mobile App Development: Leverage experience from the Google Africa Developer Training Program to create mobile solutions. Additional Skills: Web Scraping, Java, C++, Assembly, OOP, and strong problem-solving abilities. Leadership: Led the Google Developer Student Clubs at Wolaita Sodo University. Let's connect and create something amazing! 🚀
 
 - 🔭 I’m currently working on **Web System Development**
-- 🌱 I’m currently working on **AI**
+- 🌱 I’m currently working on **Data Analysis**, **Machine Learning**, & **AI**
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with **data visualization and machine learning projects**
 - 💬 Ask me about **Python, JavaScript, and Flask**
