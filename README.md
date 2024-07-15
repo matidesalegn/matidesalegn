@@ -54,8 +54,6 @@ Let's connect and create something amazing! 🚀
   - Frontend and Backend Developer specializing in JavaScript, Flask, and FastAPI.
 - **Information Technology Technician**, Koppa Smart Security Solutions (Sep 2023 - Nov 2023)
   - Installed and configured security alarm systems and surveillance cameras.
-- **Google Developer Student Clubs Lead**, Wolaita Sodo University (Aug 2022 - Jul 2023)
-  - Organized workshops on web and mobile development.
 
 ## 📚 Education
 - **Fellowship, Data Engineering, Machine Learning, and AI**, 10 Academy (Apr 2024 - Jul 2024)
