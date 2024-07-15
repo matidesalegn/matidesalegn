@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=matidesalegn&color=blue)
 
 ## 🚀 About Me
-Electrical & Computer Engineer (CE Focus) | Innovative Python & JavaScript Developer 
+Electrical & Computer Engineer (CE Focus) | Innovative Python & JavaScript Developer
 
 My passion lies in crafting data-driven solutions through web, mobile, and AI technologies. I bring expertise in:
 
@@ -95,14 +95,18 @@ Let's connect and create something amazing! 🚀
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=matidesalegn&theme=onedark)
 
-## 🔗 Connect with Me
+## 🔗 Useful Links
+- [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+- [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
+
+## Connect with me:
+[![Google Developer](https://img.shields.io/badge/-Google_Developer-333?style=flat&logo=google)](https://g.dev/matiwos_desalegn)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/matiwos-desalegn)
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)](https://github.com/matidesalegn)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://mobile.twitter.com/Matdesalegn)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium)](https://medium.com/@mathiwossilvio)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook)](https://www.facebook.com/matiwosdesa)
-[![G.dev](https://img.shields.io/badge/-Google_Dev-4285F4?style=flat&logo=google)](https://g.dev/matiwos_desalegn)
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&logo=stackoverflow)](https://ru.stackoverflow.com/users/502371/matiwos)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/matidesalegn)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://mobile.twitter.com/Matdesalegn)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium)](https://medium.com/@mathiwossilvio)
+[![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-FE7A16?style=flat&logo=stackoverflow)](https://ru.stackoverflow.com/users/502371/matiwos)
 [![Pluralsight](https://img.shields.io/badge/-Pluralsight-F15B2A?style=flat&logo=pluralsight)](https://app.pluralsight.com/profile/matiwos-desalegn)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/Matidesalegn/)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank)](https://www.hackerrank.com/mathiwossilvio)
