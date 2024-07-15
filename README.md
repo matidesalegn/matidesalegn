@@ -46,8 +46,6 @@ Electrical & Computer Engineer (CE Focus) | Innovative Python & JavaScript Devel
   - Installed and configured security alarm systems and surveillance cameras.
 - **Google Developer Student Clubs Lead**, Wolaita Sodo University (Aug 2022 - Jul 2023)
   - Organized workshops on web and mobile development.
-- **Digital Marketing Specialist**, The Sparks Foundation (Nov 2021 - Aug 2022)
-  - Developed and executed digital marketing strategies.
 
 ## 🎓 Education
 - **Bachelor's degree**, Electrical and Computer Engineering (Computer Stream)
