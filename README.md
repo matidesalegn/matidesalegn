@@ -90,6 +90,7 @@ Let's connect and create something amazing! 🚀
 - [Credit Scoring](https://medium.com/@mathiwossilvio/credit-scoring-b63c51efc918)
 - [Improved detection of fraud cases in e-commerce and bank transactions](https://medium.com/@mathiwossilvio/improved-detection-of-fraud-cases-in-e-commerce-and-bank-transactions-b0144c49d059)
 - [Analyzing and Forecasting Brent Oil Prices: A Comprehensive Time Series Approach](https://medium.com/@mathiwossilvio/analyzing-and-forecasting-brent-oil-prices-a-comprehensive-time-series-approach-aabd32de7792)
+- [Walmart Sales Prediction](https://medium.com/@mathiwossilvio/walmart-sales-prediction-94a51a4d7b79)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 GitHub Trophies
@@ -98,3 +99,8 @@ Let's connect and create something amazing! 🚀
 ## 🔗 Useful Links
 - [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 - [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/matiwos-desalegn)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mathiwossilvio@gmail.com)
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=vercel&logoColor=white)](https://matiwos.vercel.app/)
