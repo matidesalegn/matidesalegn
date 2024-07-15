@@ -3,7 +3,18 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=matidesalegn&color=blue)
 
 ## 🚀 About Me
-Electrical & Computer Engineer (CE Focus) | Innovative Python & JavaScript Developer My passion lies in crafting data-driven solutions through web, mobile, and AI technologies. I bring expertise in: Data Analysis, Machine Learning, & AI: Leverage Python for data manipulation, model building, and intelligent solutions. Integrate MLflow for robust experiment tracking and model management. Full-Stack Development: Build beautiful and functional web applications using Python (Flask/FastAPI) and React for the frontend. Deployment & DevOps: Deploy applications seamlessly with Streamlit, Heroku, or Vercel. Manage DevOps processes including test automation, CI/CD implementation, and GitHub workflows. Mobile App Development: Leverage experience from the Google Africa Developer Training Program to create mobile solutions. Additional Skills: Web Scraping, Java, C++, Assembly, OOP, and strong problem-solving abilities. Leadership: Led the Google Developer Student Clubs at Wolaita Sodo University. Let's connect and create something amazing! 🚀
+Electrical & Computer Engineer (CE Focus) | Innovative Python & JavaScript Developer 
+
+My passion lies in crafting data-driven solutions through web, mobile, and AI technologies. I bring expertise in:
+
+- **Data Analysis, Machine Learning, & AI**: Leveraging Python for data manipulation, model building, and intelligent solutions. Integrate MLflow for robust experiment tracking and model management.
+- **Full-Stack Development**: Building beautiful and functional web applications using Python (Flask/FastAPI) and React for the frontend.
+- **Deployment & DevOps**: Deploying applications seamlessly with Streamlit, Heroku, or Vercel. Managing DevOps processes including test automation, CI/CD implementation, and GitHub workflows.
+- **Mobile App Development**: Leveraging experience from the Google Africa Developer Training Program to create mobile solutions.
+- **Additional Skills**: Web Scraping, Java, C++, Assembly, OOP, and strong problem-solving abilities.
+- **Leadership**: Led the Google Developer Student Clubs at Wolaita Sodo University.
+
+Let's connect and create something amazing! 🚀
 
 - 🔭 I’m currently working on **Web System Development**
 - 🌱 I’m currently working on **Data Analysis**, **Machine Learning**, & **AI**
@@ -36,7 +47,6 @@ Electrical & Computer Engineer (CE Focus) | Innovative Python & JavaScript Devel
 
 ## 📈 GitHub Stats
 ![Matiwos Desalegn's GitHub stats](https://github-readme-stats.vercel.app/api?username=matidesalegn&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matidesalegn&layout=compact&theme=radical)
 
 ## 💼 Experience
@@ -46,24 +56,20 @@ Electrical & Computer Engineer (CE Focus) | Innovative Python & JavaScript Devel
   - Installed and configured security alarm systems and surveillance cameras.
 - **Google Developer Student Clubs Lead**, Wolaita Sodo University (Aug 2022 - Jul 2023)
   - Organized workshops on web and mobile development.
+- **Digital Marketing Specialist**, The Sparks Foundation (Nov 2021 - Aug 2022)
+  - Developed and executed digital marketing strategies.
 
-## 🎓 Education
-- **Bachelor's degree**, Electrical and Computer Engineering (Computer Stream)
-  - Wolaita Sodo University (Sep 2018 - Jul 2023)
-
-## 🏆 Licenses & Certifications
-- **Introduction to Social Media Marketing** - Meta
-- **Social Media Management** - Meta
-- **Advertising with Meta** - Meta
-- **Fundamentals of Social Media Advertising** - Meta
-- **Measure and Optimize Social Media Marketing Campaigns** - Meta
-- **Initiating and Planning Projects** - University of California, Irvine
-- **Work Readiness** - The Talent Firm
-- **Basic Digital Literacy** - iCog Anyone Can Code
-- **Introduction to Programming Using Python** - Orange Digital Center Ethiopia
-- **Introduction to Computers** - Ethiopian Full Gospel Believer's Church Bate Local
-- **Psycho-Social Training** - Posterity Psychological Therapy and Training Center
-- **Android Development Certificate of Course Completion** - Google Africa Developer Training Program
+## 📚 Education
+- **Fellowship, Data Engineering, Machine Learning, and AI**, 10 Academy (Apr 2024 - Jul 2024)
+  - Worked on end-to-end Machine Learning and Data Engineering projects for 12 weeks. Some of the projects include:
+    - NLP projects (sentiment analysis and topic modeling).
+    - Dashboard building using Streamlit and Redash.
+    - Data analysis and visualization.
+    - MLOps using CML and DVC.
+    - Various regression and classification Machine Learning Algorithms.
+    - ELT projects using Kafka, Airflow, Spark, dbt, Redash, and more.
+- **Bachelor's degree, Electrical and Computer Engineering (Computer Stream)**, Wolaita Sodo University (Sep 2018 - Jul 2023)
+  - I was the Google Developer Student Club's Wolaita Sodo University Lead.
 
 ## 🧰 Skills
 - **Programming Languages**: Python, JavaScript, Java, C++, Assembly
