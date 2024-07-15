@@ -56,8 +56,6 @@ Let's connect and create something amazing! 🚀
   - Installed and configured security alarm systems and surveillance cameras.
 - **Google Developer Student Clubs Lead**, Wolaita Sodo University (Aug 2022 - Jul 2023)
   - Organized workshops on web and mobile development.
-- **Digital Marketing Specialist**, The Sparks Foundation (Nov 2021 - Aug 2022)
-  - Developed and executed digital marketing strategies.
 
 ## 📚 Education
 - **Fellowship, Data Engineering, Machine Learning, and AI**, 10 Academy (Apr 2024 - Jul 2024)
