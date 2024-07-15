@@ -48,11 +48,6 @@ Let's connect and create something amazing! 🚀
 ![Matiwos Desalegn's GitHub stats](https://github-readme-stats.vercel.app/api?username=matidesalegn&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matidesalegn&layout=compact&theme=radical)
 
-## 📈 GitHub Stats
-![Matiwos Desalegn's GitHub stats](https://github-readme-stats.vercel.app/api?username=matidesalegn&show_icons=true&theme=blue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matidesalegn&layout=compact&theme=blue)
-
-
 ## 💼 Experience
 - **Associate Technology Professional**, HST (Dec 2023 - Present)
   - Frontend and Backend Developer specializing in JavaScript, Flask, and FastAPI.
