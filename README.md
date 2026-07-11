@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-**Mid-Level Data Engineer & AI/ML Engineer** at **[Kifiya Financial Technology PLC](https://kifiya.com)** in Addis Ababa, Ethiopia 🇪🇹
+**Senior Data Engineer & AI/ML Engineer** at **[Kifiya Financial Technology PLC](https://kifiya.com)** in Addis Ababa, Ethiopia 🇪🇹
 
 I architect and deploy **scalable data infrastructure** for fintech applications serving **African markets**. My expertise spans the full data lifecycle—from ingestion and transformation to serving and governance—with a specialized focus on building production-grade pipelines that power **6+ banking institutions**.
 
