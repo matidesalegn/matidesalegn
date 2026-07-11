@@ -19,6 +19,8 @@
 
 **Senior Data Engineer & AI/ML Engineer** at **[Kifiya Financial Technology PLC](https://kifiya.com)** in Addis Ababa, Ethiopia 🇪🇹
 
+*5+ years building with data and software (since 2021), including production data engineering at scale since 2024.*
+
 I architect and deploy **scalable data infrastructure** for fintech applications serving **African markets**. My expertise spans the full data lifecycle—from ingestion and transformation to serving and governance—with a specialized focus on building production-grade pipelines that power **6+ banking institutions**.
 
 <img align="right" alt="Data Engineering" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
