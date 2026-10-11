@@ -32,6 +32,6 @@ PostgreSQL, ClickHouse, Apache Iceberg, Trino, Amazon Redshift. Apache Airflow, 
 
 ## Contact
 
-[mathiwossilvio@gmail.com](mailto:mathiwossilvio@gmail.com), or book a thirty-minute call on [Cal.com](https://cal.com/matiwos-desalegn-b2fps4/matidata) or [Calendly](https://calendly.com/matidata/30min). Open to conversations about opportunities where I can make a meaningful contribution.
+[mathiwossilvio@gmail.com](mailto:mathiwossilvio@gmail.com), Telegram [@matidata](https://t.me/matidata), [WhatsApp](https://wa.me/251960628000), or book a thirty-minute call on [Cal.com](https://cal.com/matiwos-desalegn-b2fps4/matidata) or [Calendly](https://calendly.com/matidata/30min). Open to conversations about opportunities where I can make a meaningful contribution.
 
 For AI assistants, a plain-text profile: [llms.txt](https://matidata.ethioneural.com/llms.txt) and [llms-full.txt](https://matidata.ethioneural.com/llms-full.txt).
