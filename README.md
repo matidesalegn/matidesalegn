@@ -27,7 +27,7 @@ PostgreSQL, ClickHouse, Apache Iceberg, Trino, Amazon Redshift. Apache Airflow, 
 - [Case studies](https://matidata.ethioneural.com/work), with [the evidence](https://matidata.ethioneural.com/evidence) behind every claim, and [ways to work together](https://matidata.ethioneural.com/services#where-to-start).
 - [Free checklists and guides](https://matidata.ethioneural.com/resources) for CDC pipelines, platform choices and AI readiness.
 - [Talks and workshops](https://matidata.ethioneural.com/talks), and [how I use AI](https://matidata.ethioneural.com/ai).
-- Writing on [Medium](https://medium.com/@mathiwossilvio), and [a paper in review](https://matidata.ethioneural.com/work/amharic-slm-quantization) on Amharic small language models.
+- Essays on the site: [CDC that tells the truth](https://matidata.ethioneural.com/writing/cdc-that-tells-the-truth) and [One CDC pattern, two builds](https://matidata.ethioneural.com/writing/one-cdc-pattern-two-builds). Earlier writing on [Medium](https://medium.com/@mathiwossilvio), and [a paper in review](https://matidata.ethioneural.com/work/amharic-slm-quantization) on Amharic small language models.
 - [ethioneural](https://github.com/ethioneural): multilingual AI for Ethiopian languages.
 
 ## Contact
