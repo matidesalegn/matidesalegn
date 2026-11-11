@@ -1,6 +1,6 @@
 # Matiwos Desalegn
 
-**Data architect and senior data engineer.** I help teams design, build and govern data platforms they can trust. Senior Data Engineer at Kifiya Financial Technology in Addis Ababa, running lakehouse, CDC and warehouse platforms for digital lending since 2024. AI engineering is my second discipline.
+**Senior data engineer | Data & AI architecture for regulated finance | Scaling regulated platforms.** I help teams design, build, govern and scale regulated data platforms they can trust. Senior Data Engineer at Kifiya Financial Technology in Addis Ababa, running lakehouse, CDC and warehouse platforms for digital lending since 2024. AI engineering is my second discipline.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-matidata.ethioneural.com-111111?style=flat-square)](https://matidata.ethioneural.com)
 [![CV](https://img.shields.io/badge/CV-read_online-111111?style=flat-square)](https://matidata.ethioneural.com/cv)
